@@ -19,4 +19,4 @@
 
 ---
 
-<p>Desenvolvido com ❤️ por <a href="https://github.com/Kallel-19" target="_blank">Kallel Vieira</a></p>
+<p>Desenvolvido por <a href="https://github.com/Kallel-19" target="_blank">Kallel Vieira</a></p>
